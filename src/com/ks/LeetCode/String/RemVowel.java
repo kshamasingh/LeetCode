@@ -1,4 +1,4 @@
-package com.company.LeetCode.String;
+package com.ks.LeetCode.String;
 
 import java.util.Arrays;
 import java.util.List;

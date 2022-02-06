@@ -1,4 +1,4 @@
-package com.company.LeetCode.HashSet;
+package com.ks.LeetCode.HashSet;
 
 
 import javax.swing.plaf.IconUIResource;

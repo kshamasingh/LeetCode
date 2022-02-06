@@ -1,4 +1,4 @@
-package com.company.LeetCode.Graph;
+package com.ks.LeetCode.Graph;
 
 import java.util.ArrayList;
 

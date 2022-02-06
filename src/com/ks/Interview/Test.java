@@ -1,4 +1,4 @@
-package com.company.work;
+package com.ks.Interview;
 
 public class Test {
 

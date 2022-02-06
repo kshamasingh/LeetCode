@@ -1,4 +1,4 @@
-package com.company.LeetCode.Array;
+package com.ks.LeetCode.Array;
 
 public class LinkListSum {
 

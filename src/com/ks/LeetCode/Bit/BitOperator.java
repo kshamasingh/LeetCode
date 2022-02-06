@@ -1,4 +1,4 @@
-package com.company.LeetCode.Bit;
+package com.ks.LeetCode.Bit;
 
 public class BitOperator {
 

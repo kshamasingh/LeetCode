@@ -1,4 +1,4 @@
-package com.company.LeetCode;
+package com.ks.Interview;
 
 import java.io.*;
 
